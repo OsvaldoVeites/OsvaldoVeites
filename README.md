@@ -51,9 +51,8 @@ This capstone project validates both theoretical knowledge and practical QA skil
 
 <picture><img src="https://github.com/user-attachments/assets/49323e69-ac31-4423-8ed7-ce51bd5a310b" width = 300px></picture>
 <picture><img src="https://github.com/user-attachments/assets/bc89c733-c402-46fe-8c82-c154f1f3cbc3" width = 450px></picture>
-<picture><img src="https://github.com/user-attachments/assets/2d1dfa5e-56b2-4ed7-9fb9-682649f28970" width = 350px></picture>
-<picture><img src="https://github.com/user-attachments/assets/c851fae9-e5be-4d1f-9637-fe2463f80604" width = 300px></picture>
-<picture><img src="https://github.com/user-attachments/assets/74e23497-2339-4c02-952e-06f08d064440" width = 300px></picture>
+<picture><img src="https://github.com/user-attachments/assets/2d1dfa5e-56b2-4ed7-9fb9-682649f28970" width = 400px></picture>
+<picture><img src="https://github.com/user-attachments/assets/74e23497-2339-4c02-952e-06f08d064440" width = 200px></picture>
 
 
 
