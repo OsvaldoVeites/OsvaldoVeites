@@ -47,8 +47,8 @@ Automated UI test scripts were implemented to validate the end-to-end taxi booki
 - **End-to-End Test Automation:** Developed automated UI tests using **Selenium WebDriver** to validate the complete taxi booking flow on the Urban Routes platform.
 - **Locator Strategies:** Built efficient and maintainable test scripts by defining element locators using **CSS Selectors**, **XPath**, and **Class Names**.
 
-<picture><img src="https://github.com/user-attachments/assets/14ba1a1d-6181-4fe4-83d6-d93f41567901" width = 450px></picture>
-<picture><img src="https://github.com/user-attachments/assets/df822ef6-8317-448d-b132-acbb8b33634a" width = 450px></picture>
+<picture><img src="https://github.com/user-attachments/assets/14ba1a1d-6181-4fe4-83d6-d93f41567901" width = 400px></picture>
+<picture><img src="https://github.com/user-attachments/assets/df822ef6-8317-448d-b132-acbb8b33634a" width = 400px></picture>
 
 <br>
 
