@@ -43,10 +43,24 @@ I learned to approach challenges both analytically and creatively, strengthening
 ## Urban Routes Project
 Automated UI test scripts were implemented to validate the end-to-end taxi booking workflow on the Urban Routes web application.
 
-###  Key Achievements & Skills Acquired
+### 🚀 Key Achievements & Skills Acquired
 - **End-to-End Test Automation:** Developed automated UI tests using **Selenium WebDriver** to validate the complete taxi booking flow on the Urban Routes platform.
 - **Locator Strategies:** Built efficient and maintainable test scripts by defining element locators using **CSS Selectors**, **XPath**, and **Class Names**.
-- 
 
+<picture><img src="https://github.com/user-attachments/assets/14ba1a1d-6181-4fe4-83d6-d93f41567901" width = 450px></picture>
+<picture><img src="https://github.com/user-attachments/assets/df822ef6-8317-448d-b132-acbb8b33634a" width = 450px></picture>
 
+<br>
+
+## Urban Grocers Project
+### Urban Grocers API Test Automation
+Automated API testing suite for user registration on the Urban Grocers app, developed in Python using Pytest and PyCharm.
+
+## 🚀 Key Achievements & Skills Acquired
+- Implemented automated API tests with Pytest based on QA checklist requirements.
+- Applied Python core concepts (functions, loops, conditionals) and data structures (lists, dictionaries, tuples).
+- Established version control and code review workflows using Git and GitHub.
+
+<picture><img src="https://github.com/user-attachments/assets/e954d3a0-e268-4cf3-a311-0c98eeae27c9" width = 400px></picture>
+<picture><img src="https://github.com/user-attachments/assets/cd2cfdf5-7e52-4823-933c-b537160ec839" width = 400px></picture>
 
