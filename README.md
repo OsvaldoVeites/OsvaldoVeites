@@ -37,3 +37,16 @@ I learned to approach challenges both analytically and creatively, strengthening
   </a>
 </p>
 
+
+# Projects
+
+## Urban Routes Project
+Automated UI test scripts were implemented to validate the end-to-end taxi booking workflow on the Urban Routes web application.
+
+###  Key Achievements & Skills Acquired
+- **End-to-End Test Automation:** Developed automated UI tests using **Selenium WebDriver** to validate the complete taxi booking flow on the Urban Routes platform.
+- **Locator Strategies:** Built efficient and maintainable test scripts by defining element locators using **CSS Selectors**, **XPath**, and **Class Names**.
+- 
+
+
+
