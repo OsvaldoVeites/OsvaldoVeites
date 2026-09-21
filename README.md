@@ -39,6 +39,23 @@ I learned to approach challenges both analytically and creatively, strengthening
 
 
 # Projects
+## Final Bootcamp Project 
+
+This capstone project validates both theoretical knowledge and practical QA skills gained throughout the Bootcamp. It covers core software testing principles, test analysis, and test design across web applications, mobile applications, and APIs.
+
+## 🚀 Key Achievements & QA Competencies
+- **Solid QA Foundations:** Strong theoretical grasp of software testing concepts, methodology, and end-to-end knowledge integration across project sprints.
+- **Test Design & Execution:** Proficient application of test design techniques to author clear, well-documented test cases and comprehensive defect reports.
+- **API Testing:** Demonstrated proficiency in API testing and validation.
+- **Analytical Growth & Discipline:** High organizational discipline with continuous professional growth in analytical problem-solving and root-cause analysis.
+
+<picture><img src="https://github.com/user-attachments/assets/49323e69-ac31-4423-8ed7-ce51bd5a310b" width = 300px></picture>
+<picture><img src="https://github.com/user-attachments/assets/bc89c733-c402-46fe-8c82-c154f1f3cbc3" width = 450px></picture>
+<picture><img src="https://github.com/user-attachments/assets/2d1dfa5e-56b2-4ed7-9fb9-682649f28970" width = 350px></picture>
+<picture><img src="https://github.com/user-attachments/assets/c851fae9-e5be-4d1f-9637-fe2463f80604" width = 300px></picture>
+<picture><img src="https://github.com/user-attachments/assets/74e23497-2339-4c02-952e-06f08d064440" width = 300px></picture>
+
+
 
 ## Urban Routes Project
 Automated UI test scripts were implemented to validate the end-to-end taxi booking workflow on the Urban Routes web application.
