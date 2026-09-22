@@ -40,7 +40,9 @@ I learned to approach challenges both analytically and creatively, strengthening
 
 # Projects
 
-## UI Element Automation
+## UI Element Automation - QA Practice
+## <picture><img src="https://github.com/user-attachments/assets/958dda2b-9162-4cc7-a731-779081cc25a3" width = 200px></picutre>
+
 This project focuses on practicing UI automation by interacting with different types of web elements using Selenium, Python, and PyCharm.
 The application provides stable id and data-testid attributes, allowing me to practice reliable element identification and automation.
 
